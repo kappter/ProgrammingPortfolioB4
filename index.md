@@ -1,4 +1,5 @@
 # Mr Kapptie's Programming Portfolio 2021 
+Type a bio. [Mr Kapptie](mailto:kkapptie@graniteschools.org)
 
 ## Processing Projects
 
