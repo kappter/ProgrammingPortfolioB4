@@ -1,1 +1,4 @@
-
+// Mr Kapptie
+class Main {
+  
+}
